@@ -1,6 +1,6 @@
-# Holy Grail Layout using CSS Flexbox in Angular
+# Flex Standard Layout using CSS Flexbox in Angular
 
-This is a bare bone Holy Grail Layout using CSS Flexbox  Angular website.
+This is a bare bone Standard 3 row(header, main, footer) layout using CSS Flexbox  Angular website.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1
 
@@ -23,13 +23,13 @@ Library | Version | Notes
 
 ## Quick Start
 
-To launch the demo application, you can try below steps yourself on your computer, or launch the application on StackBlitz, by [clicking here](https://stackblitz.com/github/kumaran-is/flex-holygrail-layout).
+To launch the demo application, you can try below steps yourself on your computer, or launch the application on StackBlitz, by [clicking here](https://stackblitz.com/github/kumaran-is/flex-standard-layout).
 
 1. Clone repository and checkout the `master` branch
 
     ```bash
-    git clone https://github.com/kumaran-is/flex-holygrail-layout.git
-    cd flex-holygrail-layout
+    git clone https://github.com/kumaran-is/flex-standard-layout.git
+    cd flex-standard-layout
     git checkout master
     ```
 
@@ -79,7 +79,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## GitHub Working Agreement
 
-We will be working off the masterp branch. When working on a new feature or fixing a bug,
+We will be working off the master branch. When working on a new feature or fixing a bug,
 create a new branch out of the master branch and follow the below naming convention for the branch name.
 Remember that GitHub and MacOS are case-sensitive. Our standard will be for all branch names and file
 names to be all lower-case.
@@ -116,4 +116,4 @@ Before submitting a Pull Request for the  repository make sure to check the foll
 
 ## Issue Tracker
 
-* [Issue tracker](https://github.com/kumaran-is/flex-holygrail-layout/issues?state=open)
+* [Issue tracker](https://github.com/kumaran-is/flex-standard-layout/issues?state=open)
