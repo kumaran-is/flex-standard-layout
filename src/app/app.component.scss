@@ -64,18 +64,15 @@ footer {
 header {
   max-height: 70px;
   min-height: 70px;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
 }
 
 footer {
   max-height: 150px;
   min-height: 150px;
 }
-
-/* middle section of main content, width is 5 times greater than 2 side sections - aside & nave sections*/
-main {
-  flex: 5 0 auto;
-}
-
 
 @media (max-width: 700px) {
   main{
