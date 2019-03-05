@@ -1,3 +1,16 @@
+
+<a name="v1.0.0"></a>
+## 1.0.0 (2019-03-05)
+
+#### Bug Fixes
+* NA
+
+#### Features
+* Published angular application to github page using [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) [[PR 1](https://github.com/kumaran-is/flex-standard-layout/pull/1)]
+
+#### Breaking Changes
+* NA
+
 <a name="v0.0.1"></a>
 ## 0.0.1 (2019-02-23)
 
